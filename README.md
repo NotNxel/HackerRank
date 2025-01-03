@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://www.hackerrank.com/nathanabela7">
-        <img alt="HackerRank Logo | Nathan Abela Profile" src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" >
+    <a href="https://www.hackerrank.com/Notnxel">
+        <img alt="HackerRank Logo | Neel Nikhil Profile" src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" >
     </a>
 </p>
 
@@ -13,7 +13,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 ## Personal HackerRank Profile
 
-[View Profile](https://www.hackerrank.com/nathanabela7)
+[View Profile](https://www.hackerrank.com/Notnxel)
 
 ## HackerRank Badges
 
@@ -410,7 +410,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |       SQL       |      [Test](https://www.hackerrank.com/skills-verification/sql_advanced)       |   Advanced   |                               Query Optimization, Data Modelling, Indexing, Window Functions, and Pivots                                |      [Certificate](/Skills%20Certification/SQL%20(Advanced)%20Certificate.png)       |
 
 <p align="center">
-    <a href="https://www.hackerrank.com/nathanabela7">
+    <a href="https://www.hackerrank.com/Notnxel">
         <img alt="HackerRank Logo" src="https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg">
     </a>
 </p>

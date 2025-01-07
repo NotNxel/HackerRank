@@ -6,7 +6,7 @@
 # Difficulty: Medium
 # Max Score: 10
 # Language: Python
-# Credit : Neel Nikil Pappu
+# Credit : Neel Nikhil Pappu
 
 # ========================
 #         Solution

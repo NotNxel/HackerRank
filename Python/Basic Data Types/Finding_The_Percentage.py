@@ -2,7 +2,7 @@
 #       Information
 # ========================
 
-# Direct Link: https://www.hackerrank.com/challenges/list-comprehensions/problem
+# Direct Link: https://www.hackerrank.com/challenges/finding-the-percentage/problem
 # Difficulty: Easy
 # Max Score: 10
 # Language: Python

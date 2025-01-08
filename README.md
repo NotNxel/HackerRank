@@ -8,8 +8,8 @@
 
 This repository consists of solutions to HackerRank **practice**, **tutorials* problems with **Python**
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/Notnxel/HackerRank-Solutions)](https://github.com/Notnxel/HackerRank-Solutions/commits/master)
-[![GitHub repo size](https://img.shields.io/github/repo-size/Notnxel/HackerRank-Solutions)](https://github.com/Notnxel/HackerRank-Solutions/archive/master.zip)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Notnxel/HackerRank)](https://github.com/Notnxel/HackerRank/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Notnxel/HackerRank)](https://github.com/Notnxel/HackerRank/archive/master.zip)
 
 ## Personal HackerRank Profile
 

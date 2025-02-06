@@ -33,6 +33,3 @@ print(is_leap(year))
 
 
 
-
-
-

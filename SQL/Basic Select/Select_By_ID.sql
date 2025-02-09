@@ -19,6 +19,3 @@ SELECT * FROM CITY where Id='1661' ;
 
 
 
-
-
-

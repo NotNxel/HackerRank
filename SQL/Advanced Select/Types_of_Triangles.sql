@@ -23,3 +23,6 @@ CASE
     ELSE 'Scalene'
 END
 FROM TRIANGLES;
+
+
+

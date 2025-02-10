@@ -29,6 +29,3 @@ FROM TRIANGLES;
 
 
 
-
-
-
